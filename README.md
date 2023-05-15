@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=aws,ansible,azure,bash,docker,dynamodb,gcp,git,github,githubactions,gitlab,grafana,go,kafka,linux,neovim,nginx,postgres,prometheus,py,redis,regex&theme=light)](https://skillicons.dev)... and many more!
 
 
-###My github stats:
+### My github stats:
 
 
 [![lpossamai's GitHub stats](https://github-readme-stats-lpossamai.vercel.app/api?username=lpossamai)](https://github.com/anuraghazra/github-readme-stats)
