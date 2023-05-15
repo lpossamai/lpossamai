@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [many projects](https://www.lpossamai.me). DevSecOps, modernizing application and cloud infrastructure, containerizing, DevOps best practices, CI/CD pipeline refactoring, etc.
   - [Blog](https://medium.com/@lpossamai)
-
-Having fun using **AWS, Kubernetes, Docker, Terraform, Terragrunt, Github Actions, Gitlab CI/CD, PostgreSQL, SQL, PL / PGSQL**...
-
-### Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=git,grafana,postgres,prometheus,vim,kubernetes,docker)](https://skills.thijs.gg)
+- 😄Having fun using [![My Skills](https://skills.thijs.gg/icons?i=git,grafana,postgres,prometheus,vim,kubernetes,docker)](https://skills.thijs.gg) and (many) more!
+- 🌱 I’m currently learning [![My Skills](https://skills.thijs.gg/icons?i=py,go)](https://skills.thijs.gg)
+- 📫 How to reach me at lucas@lpossamai.me
 
 
 My github stats:
