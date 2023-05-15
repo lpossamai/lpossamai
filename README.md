@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [many projects](https://www.lpossamai.me). DevSecOps, modernizing application and cloud infrastructure, containerizing, DevOps best practices, CI/CD pipeline refactoring, etc.
   - [Blog](https://medium.com/@lpossamai)
 
-Having fun using **PHP, Java, Shell Script, Typescript, JavaScript, Angular, PostgreSQL, MySQL, MSSQL, Oracle, SQL, PL / PGSQL, PL / SQL, AWS**...
-
-I have participated in many projects with integration of legacy systems and their subsequent migration to new technology; modeling databases; database remodeling; high availability database; analysis and performance improvement for database or application tunning.
+Having fun using **AWS, Kubernetes, Docker, Terraform, Terragrunt, Github Actions, Gitlab CI/CD, PostgreSQL, SQL, PL / PGSQL**...
 
 ### Languages and Tools:
+[![My Skills](https://skills.thijs.gg/icons?i=git,grafana,postgres,prometheus,vim,kubernetes,docker)](https://skills.thijs.gg)
 
 
 My github stats:
