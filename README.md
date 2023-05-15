@@ -19,11 +19,11 @@ Here are some ideas to get you started:
   - [Blog](https://medium.com/@lpossamai)
 - 😄Having fun using [![My Skills](https://skills.thijs.gg/icons?i=git,grafana,postgres,prometheus,vim,kubernetes,docker)](https://skills.thijs.gg) and (many) more!
 - 🌱 I’m currently learning [![My Skills](https://skills.thijs.gg/icons?i=py,go)](https://skills.thijs.gg)
-- 📫 How to reach me at lucas@lpossamai.me
+- 📫 How to reach me: send me an email at lucas@lpossamai.me!
 
 
 My github stats:
 <br />
-[![rafaelbernard's GitHub stats](https://github-readme-stats-lpossamai.vercel.app/api?username=lpossamai)](https://github.com/anuraghazra/github-readme-stats)
+[![lpossamai's GitHub stats](https://github-readme-stats-lpossamai.vercel.app/api?username=lpossamai)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 _Stats thanks to https://github.com/anuraghazra/github-readme-stats_
