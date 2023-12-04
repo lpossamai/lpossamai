@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [many projects](https://www.lpossamai.me). DevSecOps, modernizing application and cloud infrastructure, containerizing, DevOps best practices, CI/CD pipeline refactoring, etc.
-  - [Blog](https://medium.com/@lpossamai)
+  - [Blog](https://dev.to/lpossamai)
   - [Check out how I migrated a Live PostgreSQL 9.2 to 14 database with zero downtime!](https://medium.com/@lpossamai/postgresql-live-migration-from-9-2-to-14-with-bucardo-1d00be9a209b)
 - 🌱 I’m currently learning [![My Skills](https://skills.thijs.gg/icons?i=py,go)](https://skills.thijs.gg)
 - 📫 How to reach me: send me an email at lucas@lpossamai.me!
